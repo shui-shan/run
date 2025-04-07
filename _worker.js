@@ -10,10 +10,7 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://17b8ab07-e85f-42b8-b90b-fce4497b7ef2@sg-n1.starvm.ltd:56340?type=tcp&security=reality&sni=17b8ab07.com&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&flow=xtls-rprx-vision&fp=chrome#新加坡Oracle 2G|10TB
-vless://1a9a0b12-8a93-42f0-dfc8-d982dee7cbcd@109.107.137.73:14601?type=tcp&security=reality&sni=1a9a0b12.com&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&flow=xtls-rprx-vision&fp=chrome#日本IIJ 500M|100G
-vless://0e1ae0d7-ef84-4891-ce23-2a3797304efb@[2a14:7dc0:100:101:101::633]:54702?type=tcp&security=reality&sni=0e1ae0d7.com&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&flow=xtls-rprx-vision&fp=chrome#新加坡ipv6|TxE9.love@xray.com
-vless://d1d7513d-7ecb-4c9f-ca3e-4ed89dbc6fc4@109.107.137.73:16202?type=tcp&security=reality&sni=d1d7513d.com&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&flow=xtls-rprx-vision&fp=chrome#日本IIJ电信优化|水杉
+vless://31289f07-5d5d-444e-bd0c-50aad779e631@47.76.194.126:56341?type=tcp&security=reality&sni=b76ce5d5.com&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&flow=xtls-rprx-vision&fp=chrome#【alice+claw】香港-老润专用
 `
 
 //请将机场订阅链接填入上方
