@@ -10,7 +10,7 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://ae19633b-1a69-4960-bacb-9063d6bece11@aliyun.shuishan.us.kg:56341?type=tcp&security=reality&pbk=dOAbn7po8IoME9LX1608vk7-f_2tynYpW8U3JN6WakE&fp=chrome&sni=1942728e.com&sid=a0d0a689851ac18b&spx=%2F&flow=xtls-rprx-vision#%E3%80%90claw%2Bakile%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6%E4%B8%93%E7%94%A8
+vless://ae19633b-1a69-4960-bacb-9063d6bece11@aliyun.shuishan.us.kg:56341?type=tcp&security=reality&pbk=dOAbn7po8IoME9LX1608vk7-f_2tynYpW8U3JN6WakE&fp=chrome&sni=1942728e.com&sid=a0d0a689851ac18b&spx=%2F&flow=xtls-rprx-vision#%E3%80%90yxvm%2Bakile%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6%E4%B8%93%E7%94%A8
 `
 
 //请将机场订阅链接填入上方
