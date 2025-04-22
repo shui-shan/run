@@ -10,7 +10,8 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://ae19633b-1a69-4960-bacb-9063d6bece11@aliyun.shuishan.us.kg:56341?type=tcp&security=reality&pbk=dOAbn7po8IoME9LX1608vk7-f_2tynYpW8U3JN6WakE&fp=chrome&sni=1942728e.com&sid=a0d0a689851ac18b&spx=%2F&flow=xtls-rprx-vision#%E3%80%90yxvm%2Bakile%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6%E4%B8%93%E7%94%A8
+vless://fde15965-67bc-4af7-b9d0-4779bc043719@3xui.shuishan.us.kg:56340?type=tcp&security=reality&pbk=LcfxmJyX_WwJR4dozKdat0JFBQeK-mpaXMlVXA4Dhj8&fp=chrome&sni=22181561.com&sid=fab95c0ed8&spx=%2F&flow=xtls-rprx-vision#%E3%80%90yxvm%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6%E4%B8%93%E7%94%A8
+vless://1a9a0b12-8a93-42f0-dfc8-d982dee7cbcd@109.107.137.73:14601?type=tcp&security=reality&sni=1a9a0b12.com&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&flow=xtls-rprx-vision&fp=chrome#【sanaka】日本失联紧急备用
 `
 
 //请将机场订阅链接填入上方
