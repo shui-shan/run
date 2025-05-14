@@ -10,8 +10,10 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://96a24aa9-0b9a-43b5-8bc4-6fbb028a5b7a@47.243.255.135:56340?type=tcp&security=reality&pbk=QH8W0sOZSNEYY2WZI4c1nzHkQZ5oF11AtREER1t9YhA&fp=chrome&sni=74378d1c.com&sid=2d9016&spx=%2F&flow=xtls-rprx-vision#%E3%80%90claw%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6
-vless://efd4e2d5-a3a1-446f-bc55-3bfadf84869d@[2a14:67c0:302:233::a]:56340?type=tcp&security=reality&pbk=yJf_mX0Gp1w9sc_OjSwQ4oSZMNUyiivI_Cqrdf37CXU&fp=chrome&sni=efd4e2d5.com&sid=fe&spx=%2F&flow=xtls-rprx-vision#%E3%80%90alice%E3%80%91%E9%A6%99%E6%B8%AFv6-%E5%A4%87%E7%94%A8
+vless://77bafa45-b9ac-4550-ac2d-9cb1ef808489@47.243.255.135:56343?type=tcp&security=reality&pbk=07vL7n5SeQHaOCLl4q3GJxHQh2Xx4s9oQlz4bC1YM3c&fp=chrome&sni=77bafa45.com&sid=7bcc21e4&spx=%2F&flow=xtls-rprx-vision#%E3%80%90%E8%80%81%E6%B6%A6%E3%80%91%E8%8A%82%E7%82%B91-%E4%B8%8B%E8%BD%BD%E7%BA%BF%E8%B7%AF
+vless://5bc9b47f-cbd4-4e17-968e-eb82bc0c10cb@47.243.255.135:56343?type=tcp&security=reality&pbk=07vL7n5SeQHaOCLl4q3GJxHQh2Xx4s9oQlz4bC1YM3c&fp=chrome&sni=77bafa45.com&sid=7bcc21e4&spx=%2F&flow=xtls-rprx-vision#%E3%80%90%E8%80%81%E6%B6%A6%E3%80%91%E8%8A%82%E7%82%B92-%E5%8A%A8%E6%80%81%E5%AE%B6%E5%AE%BD
+vless://2461e685-b45c-4e9d-9944-4fbf717f4c29@47.243.255.135:56343?type=tcp&security=reality&pbk=07vL7n5SeQHaOCLl4q3GJxHQh2Xx4s9oQlz4bC1YM3c&fp=chrome&sni=77bafa45.com&sid=7bcc21e4&spx=%2F&flow=xtls-rprx-vision#%E3%80%90%E8%80%81%E6%B6%A6%E3%80%91%E8%8A%82%E7%82%B93-%E6%B5%81%E5%AA%92%E4%BD%93
+vless://f138e86b-6b7a-4a37-a5ab-df66618ad27e@[2a14:67c0:302:233::a]:56340?type=tcp&security=reality&pbk=yJf_mX0Gp1w9sc_OjSwQ4oSZMNUyiivI_Cqrdf37CXU&fp=chrome&sni=efd4e2d5.com&sid=fe&spx=%2F&flow=xtls-rprx-vision#%E3%80%90%E8%80%81%E6%B6%A6%E3%80%91%E8%8A%82%E7%82%B94-%E5%A4%87%E7%94%A8v6
 `
 
 //请将机场订阅链接填入上方
