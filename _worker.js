@@ -10,8 +10,7 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://b7758e75-4b24-4f22-a440-f4b820d73ba8@47.243.255.135:56340?type=tcp&security=reality&pbk=PXY5KhVEUvhZNdA8QYcmFR4h0DPqkCFQxINteIheQEc&fp=chrome&sni=299b6f6c.com&sid=6a0abc6c9242&spx=%2F&flow=xtls-rprx-vision#%E3%80%90claw%2Balice%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6
-vless://efd4e2d5-a3a1-446f-bc55-3bfadf84869d@[2a14:67c0:302:233::a]:56340?type=tcp&security=reality&pbk=yJf_mX0Gp1w9sc_OjSwQ4oSZMNUyiivI_Cqrdf37CXU&fp=chrome&sni=efd4e2d5.com&sid=fe&spx=%2F&flow=xtls-rprx-vision#%E3%80%90alice%E3%80%91%E9%A6%99%E6%B8%AFv6-%E5%A4%87%E7%94%A8
+vless://b7758e75-4b24-4f22-a440-f4b820d73ba8@47.243.255.135:56340?type=tcp&security=reality&pbk=PXY5KhVEUvhZNdA8QYcmFR4h0DPqkCFQxINteIheQEc&fp=chrome&sni=299b6f6c.com&sid=6a0abc6c9242&spx=%2F&flow=xtls-rprx-vision#%E3%80%90claw%2Bakile%E3%80%91%E9%A6%99%E6%B8%AF-%E8%80%81%E6%B6%A6
 `
 
 //请将机场订阅链接填入上方
